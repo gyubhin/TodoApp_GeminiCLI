@@ -1,6 +1,6 @@
 # React + Vite
+* Fork 받은 Repo를 수정해서 Push 하기
+* 백명숙입니다. 수정해 주세요
 
-*   Fork  받은 repo를 수정해서 push 해보기
-asdasdsad
 
 ## asd sdasd
